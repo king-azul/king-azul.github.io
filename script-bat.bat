@@ -1,1 +1,2 @@
-start calc
+@echo off
+start calc.exe
